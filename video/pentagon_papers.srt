@@ -1,0 +1,524 @@
+1
+00:00:00,400 --> 00:00:02,565
+Mars 1971.
+
+2
+00:00:03,005 --> 00:00:05,620
+Imaginez : vous dirigez le New York Times,
+
+3
+00:00:05,620 --> 00:00:07,675
+l'un des plus grands journaux des
+
+4
+00:00:07,675 --> 00:00:08,540
+États-Unis.
+
+5
+00:00:08,680 --> 00:00:10,852
+Sur votre bureau, 7 000 pages
+
+6
+00:00:10,852 --> 00:00:12,156
+ultra-secrètes.
+
+7
+00:00:12,296 --> 00:00:14,818
+C'est un rapport venant du Pentagone, le
+
+8
+00:00:14,818 --> 00:00:17,403
+ministère de la Défense américain, sur la
+
+9
+00:00:17,403 --> 00:00:18,718
+guerre du Vietnam,
+
+10
+00:00:18,858 --> 00:00:21,686
+qu'un ancien analyste, Daniel Ellsberg, a
+
+11
+00:00:21,686 --> 00:00:22,694
+fait fuiter.
+
+12
+00:00:22,834 --> 00:00:25,263
+Et ce que ce document révèle est totalement
+
+13
+00:00:25,263 --> 00:00:26,008
+explosif :
+
+14
+00:00:26,148 --> 00:00:28,168
+on comprend que pendant des années, le
+
+15
+00:00:28,168 --> 00:00:29,976
+gouvernement a caché la vérité aux
+
+16
+00:00:29,976 --> 00:00:31,645
+Américains sur cette guerre.
+
+17
+00:00:31,785 --> 00:00:34,453
+Alors, vous faites quoi dans cette situation
+
+18
+00:00:34,453 --> 00:00:34,693
+?
+
+19
+00:00:35,133 --> 00:00:37,538
+Si vous publiez, le gouvernement peut vous
+
+20
+00:00:37,538 --> 00:00:38,862
+attaquer en justice.
+
+21
+00:00:39,002 --> 00:00:41,532
+Si vous vous taisez, vous passez à côté du
+
+22
+00:00:41,532 --> 00:00:43,819
+scoop du siècle pour votre journal.
+
+23
+00:00:43,959 --> 00:00:47,831
+Le 13 juin 1971, le Times publie.
+
+24
+00:00:47,971 --> 00:00:49,533
+Et là, tout bascule.
+
+25
+00:00:49,673 --> 00:00:52,587
+Le lendemain, le ministre de la Justice du
+
+26
+00:00:52,587 --> 00:00:55,085
+président Nixon exige que le journal
+
+27
+00:00:55,085 --> 00:00:57,000
+s'arrête, sinon : procès.
+
+28
+00:00:57,140 --> 00:00:58,411
+Le Times refuse.
+
+29
+00:00:58,551 --> 00:01:00,815
+Un juge bloque alors la publication.
+
+30
+00:01:00,955 --> 00:01:02,697
+Mais voilà où ça devient fou :
+
+31
+00:01:02,837 --> 00:01:05,587
+le Washington Post, un journal concurrent,
+
+32
+00:01:05,587 --> 00:01:07,600
+obtient les mêmes documents.
+
+33
+00:01:07,740 --> 00:01:10,034
+Il a vu ce qui est arrivé au Times. Il
+
+34
+00:01:10,034 --> 00:01:11,300
+connaît le risque.
+
+35
+00:01:11,440 --> 00:01:13,943
+Et il publie quand même, le 18 juin.
+
+36
+00:01:14,983 --> 00:01:15,705
+Pourquoi ?
+
+37
+00:01:16,645 --> 00:01:18,677
+C'est là qu'on s'est posé deux questions.
+
+38
+00:01:18,817 --> 00:01:21,109
+Pourquoi un journal prend-il le risque d'un
+
+39
+00:01:21,109 --> 00:01:21,715
+procès ?
+
+40
+00:01:21,855 --> 00:01:23,812
+Et pourquoi un gouvernement lance-t-il un
+
+41
+00:01:23,812 --> 00:01:25,233
+procès qu'il peut perdre ?
+
+42
+00:01:25,373 --> 00:01:27,298
+Let's break it down.
+
+43
+00:01:27,638 --> 00:01:29,947
+Pour y répondre, on utilise la théorie des
+
+44
+00:01:29,947 --> 00:01:30,402
+jeux.
+
+45
+00:01:30,542 --> 00:01:33,054
+Son idée : étudier des choix où la meilleure
+
+46
+00:01:33,054 --> 00:01:35,395
+décision dépend de ce que les autres vont
+
+47
+00:01:35,395 --> 00:01:36,032
+décider.
+
+48
+00:01:36,172 --> 00:01:38,563
+Ici, c'est un jeu séquentiel, c'est-à-dire
+
+49
+00:01:38,563 --> 00:01:41,019
+que les joueurs jouent chacun leur tour.
+
+50
+00:01:41,159 --> 00:01:43,844
+D'abord le Times choisit de publier ou non.
+
+51
+00:01:43,984 --> 00:01:46,813
+Ensuite Nixon choisit de poursuivre ou non.
+
+52
+00:01:46,953 --> 00:01:48,830
+Puis le Post décide à son tour.
+
+53
+00:01:48,970 --> 00:01:50,403
+Et Nixon réagit encore.
+
+54
+00:01:50,543 --> 00:01:52,873
+Pour résoudre ce jeu, on raisonne à rebours
+
+55
+00:01:52,873 --> 00:01:54,895
+: on part de la fin et on remonte.
+
+56
+00:01:55,035 --> 00:01:57,705
+Pourquoi ? Parce que chaque joueur anticipe
+
+57
+00:01:57,705 --> 00:01:59,624
+ce que l'autre fera ensuite.
+
+58
+00:01:59,764 --> 00:02:02,077
+Trois ingrédients comptent : le gain de
+
+59
+00:02:02,077 --> 00:02:04,688
+publier, le coût d'un procès, et les chances
+
+60
+00:02:04,688 --> 00:02:06,173
+de gagner au tribunal.
+
+61
+00:02:06,613 --> 00:02:08,412
+Prenons un exemple simple.
+
+62
+00:02:08,552 --> 00:02:11,419
+Publier une information rapporte beaucoup à
+
+63
+00:02:11,419 --> 00:02:14,219
+un journal : du prestige, des lecteurs, de
+
+64
+00:02:14,219 --> 00:02:15,066
+la fierté.
+
+65
+00:02:15,206 --> 00:02:17,896
+S'il perd son procès, il ne gagne rien.
+
+66
+00:02:18,036 --> 00:02:20,363
+Et un procès coûte de l'argent, du temps et
+
+67
+00:02:20,363 --> 00:02:21,246
+de l'énergie.
+
+68
+00:02:21,386 --> 00:02:23,715
+Si le gouvernement n'est pas sûr de gagner,
+
+69
+00:02:23,715 --> 00:02:26,097
+le journal peut encore espérer beaucoup pour
+
+70
+00:02:26,097 --> 00:02:27,036
+un petit coût.
+
+71
+00:02:27,176 --> 00:02:28,683
+Il publie sans hésiter.
+
+72
+00:02:28,823 --> 00:02:31,185
+Mais à partir de quand le journal se tait-il
+
+73
+00:02:31,185 --> 00:02:31,419
+?
+
+74
+00:02:31,559 --> 00:02:34,011
+Seulement quand le gouvernement est presque
+
+75
+00:02:34,011 --> 00:02:36,406
+certain de gagner : à ce moment-là, ce que
+
+76
+00:02:36,406 --> 00:02:38,915
+le journal peut espérer ne vaut plus le coût
+
+77
+00:02:38,915 --> 00:02:39,665
+du procès.
+
+78
+00:02:39,805 --> 00:02:41,867
+Autant dire que, pour le Times, le
+
+79
+00:02:41,867 --> 00:02:44,232
+gouvernement ne devrait avoir quasiment
+
+80
+00:02:44,232 --> 00:02:45,868
+aucune chance de perdre.
+
+81
+00:02:46,008 --> 00:02:47,871
+On applique maintenant le raisonnement à
+
+82
+00:02:47,871 --> 00:02:48,423
+rebours.
+
+83
+00:02:48,563 --> 00:02:51,162
+Au bout du chemin, il y a la Cour suprême,
+
+84
+00:02:51,162 --> 00:02:53,198
+le plus haut tribunal du pays.
+
+85
+00:02:53,338 --> 00:02:55,831
+Là, un procès coûte encore plus cher.
+
+86
+00:02:55,971 --> 00:02:58,502
+Mais même ainsi, le Post ne se tait que s'il
+
+87
+00:02:58,502 --> 00:03:00,178
+est presque sûr de perdre.
+
+88
+00:03:00,318 --> 00:03:01,738
+Donc que fait Nixon ?
+
+89
+00:03:02,078 --> 00:03:03,902
+Il anticipe que les deux journaux
+
+90
+00:03:03,902 --> 00:03:05,739
+publieront, quoi qu'il arrive.
+
+91
+00:03:05,879 --> 00:03:08,008
+Pour lui, laisser publier est pire que
+
+92
+00:03:08,008 --> 00:03:09,197
+risquer un procès.
+
+93
+00:03:09,337 --> 00:03:11,956
+Il poursuit donc, même sans être sûr de
+
+94
+00:03:11,956 --> 00:03:12,606
+gagner.
+
+95
+00:03:13,346 --> 00:03:14,349
+Et la réalité ?
+
+96
+00:03:15,089 --> 00:03:18,601
+Le 30 juin 1971, la Cour suprême tranche, à
+
+97
+00:03:18,601 --> 00:03:22,032
+la majorité : les journaux ont le droit de
+
+98
+00:03:22,032 --> 00:03:22,865
+publier.
+
+99
+00:03:23,305 --> 00:03:25,797
+Alors, qu'est-ce qu'on retient ? Trois
+
+100
+00:03:25,797 --> 00:03:26,633
+résultats.
+
+101
+00:03:26,773 --> 00:03:29,049
+Premier résultat : seules des chances
+
+102
+00:03:29,049 --> 00:03:31,074
+extrêmes font taire la presse.
+
+103
+00:03:31,214 --> 00:03:33,812
+Il faut que le journal soit quasiment sûr de
+
+104
+00:03:33,812 --> 00:03:36,354
+perdre, que ce soit le Times ou le Post.
+
+105
+00:03:36,494 --> 00:03:38,241
+Une presse libre se laisse très
+
+106
+00:03:38,241 --> 00:03:39,773
+difficilement intimider.
+
+107
+00:03:39,913 --> 00:03:42,299
+Deuxième résultat : le gain compte.
+
+108
+00:03:42,439 --> 00:03:44,890
+Imaginez une toute petite histoire, qui
+
+109
+00:03:44,890 --> 00:03:45,888
+rapporte peu.
+
+110
+00:03:46,028 --> 00:03:48,573
+Là, même un risque modéré de perdre suffit à
+
+111
+00:03:48,573 --> 00:03:50,199
+faire taire les journaux.
+
+112
+00:03:50,339 --> 00:03:52,916
+Ici, le scoop était gigantesque, et ça a
+
+113
+00:03:52,916 --> 00:03:53,869
+tout changé.
+
+114
+00:03:54,009 --> 00:03:56,320
+Troisième résultat : les coûts jouent dans
+
+115
+00:03:56,320 --> 00:03:57,270
+les deux sens.
+
+116
+00:03:57,410 --> 00:03:59,545
+Si les procès coûtent cher seulement aux
+
+117
+00:03:59,545 --> 00:04:01,574
+journaux, ils se mettent à craindre le
+
+118
+00:04:01,574 --> 00:04:02,983
+tribunal et se taisent.
+
+119
+00:04:03,123 --> 00:04:04,967
+Mais s'ils coûtent cher aussi au
+
+120
+00:04:04,967 --> 00:04:07,503
+gouvernement, Nixon ne poursuit plus, et les
+
+121
+00:04:07,503 --> 00:04:08,721
+journaux publient.
+
+122
+00:04:08,861 --> 00:04:10,175
+Le message final ?
+
+123
+00:04:10,615 --> 00:04:12,552
+La liberté de la presse ne dépend pas
+
+124
+00:04:12,552 --> 00:04:14,228
+seulement du courage de quelques
+
+125
+00:04:14,228 --> 00:04:15,089
+journalistes.
+
+126
+00:04:15,229 --> 00:04:17,957
+Elle dépend aussi des incitations : qui paie
+
+127
+00:04:17,957 --> 00:04:19,687
+quoi, et qui risque quoi.
+
+128
+00:04:19,827 --> 00:04:22,015
+Alors, une dernière question.
+
+129
+00:04:22,555 --> 00:04:24,693
+Si les procès avaient coûté beaucoup moins
+
+130
+00:04:24,693 --> 00:04:26,932
+cher au gouvernement, est-ce que vous auriez
+
+131
+00:04:26,932 --> 00:04:28,487
+pris le risque de publier ?
+
